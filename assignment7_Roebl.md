@@ -20,7 +20,7 @@ _____
 
 >How should a scheduler order these processes to minimize average turn around time? What is the minimal average turn around time in the optimal order you found?
 
-### sort:
+#### sort:
 
 |          Process         | G | B | A | D  | C  | F  | H  | E  |
 |:------------------------:|:-:|:-:|:-:|:--:|:--:|:--:|:--:|:--:|
